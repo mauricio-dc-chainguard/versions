@@ -1,8 +1,0 @@
-apiVersion: versions.wolfi.dev/v1
-kind: VersionStream
-metadata:
-  name: zookeeper
-spec:
-  endOfLife:
-    identifier: zookeeper
-  versionStreamFormat: ${{name}}-${{versions.major}}.${{versions.minor}}
