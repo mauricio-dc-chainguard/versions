@@ -6,3 +6,27 @@ spec:
   endOfLife:
     identifier: scala
   versionStreamFormat: ${{name}}-${{versions.major}}.${{versions.minor}}
+status:
+  eolVersions:
+  - eolDate: "2023-05-23"
+    releaseDate: "2022-08-31"
+    version: "3.2"
+  - eolDate: "2022-09-01"
+    releaseDate: "2021-10-18"
+    version: "3.1"
+  - eolDate: "2021-10-18"
+    releaseDate: "2021-05-13"
+    version: "3.0"
+  lastUpdatedTimestamp: "2023-12-14T18:17:40.099333895Z"
+  latestVersion: 3.3.1
+  versions:
+  - releaseDate: "2023-05-23"
+    version: "3.3"
+  - releaseDate: "2019-06-07"
+    version: "2.13"
+  - releaseDate: "2016-10-28"
+    version: "2.12"
+  - releaseDate: "2014-04-16"
+    version: "2.11"
+  - releaseDate: "2012-12-19"
+    version: "2.10"

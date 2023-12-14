@@ -6,3 +6,26 @@ spec:
   endOfLife:
     identifier: perl
   versionStreamFormat: ${{name}}-${{versions.major}}.${{versions.minor}}
+status:
+  eolVersions:
+  - eolDate: "2023-06-20"
+    releaseDate: "2020-06-20"
+    version: "5.32"
+  - eolDate: "2022-05-22"
+    releaseDate: "2019-05-22"
+    version: "5.30"
+  - eolDate: "2021-06-23"
+    releaseDate: "2018-06-22"
+    version: "5.28"
+  - eolDate: "2020-05-30"
+    releaseDate: "2017-05-30"
+    version: "5.26"
+  lastUpdatedTimestamp: "2023-12-14T18:17:40.097653305Z"
+  latestVersion: 5.38.2
+  versions:
+  - releaseDate: "2023-07-02"
+    version: "5.38"
+  - releaseDate: "2022-05-27"
+    version: "5.36"
+  - releaseDate: "2021-05-20"
+    version: "5.34"
