@@ -1,8 +1,8 @@
 apiVersion: versions.wolfi.dev/v1
 kind: VersionStream
 metadata:
-  name: ruby
+  name: nodejs
 spec:
   endOfLife:
-    identifier: ruby
+    identifier: nodejs
   versionStreamFormat: ${{name}}-${{versions.major}}.${{versions.minor}}
