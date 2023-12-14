@@ -1,0 +1,8 @@
+apiVersion: versions.wolfi.dev/v1
+kind: VersionStream
+metadata:
+  name: redis
+spec:
+  endOfLife:
+    identifier: redis
+  versionStreamFormat: ${{name}}-${{versions.major}}.${{versions.minor}}
