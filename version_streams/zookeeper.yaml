@@ -6,3 +6,23 @@ spec:
   endOfLife:
     identifier: zookeeper
   versionStreamFormat: ${{name}}-${{versions.major}}.${{versions.minor}}
+status:
+  eolVersions:
+  - eolDate: "2022-12-30"
+    releaseDate: "2020-02-25"
+    version: "3.6"
+  - eolDate: "2022-06-01"
+    releaseDate: "2019-05-03"
+    version: "3.5"
+  - eolDate: "2020-06-01"
+    releaseDate: "2011-11-23"
+    version: "3.4"
+  lastUpdatedTimestamp: "2023-12-14T20:39:59.495003661Z"
+  latestVersion: 3.9.1
+  versions:
+  - releaseDate: "2023-07-19"
+    version: "3.9"
+  - releaseDate: "2022-02-25"
+    version: "3.8"
+  - releaseDate: "2021-03-17"
+    version: "3.7"
