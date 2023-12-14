@@ -1,0 +1,8 @@
+apiVersion: versions.wolfi.dev/v1
+kind: VersionStream
+metadata:
+  name: rabbitmq
+spec:
+  endOfLife:
+    identifier: rabbitmq
+  versionStreamFormat: ${{name}}-${{versions.major}}.${{versions.minor}}
