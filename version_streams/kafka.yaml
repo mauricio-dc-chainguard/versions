@@ -4,5 +4,5 @@ metadata:
   name: kafka
 spec:
   endOfLife:
-    identifier: kafka
+    identifier: apache-kafka
   versionStreamFormat: ${{name}}-${{versions.major}}.${{versions.minor}}
