@@ -6,3 +6,30 @@ spec:
   endOfLife:
     identifier: gradle
   versionStreamFormat: ${{name}}-${{versions.major}}.${{versions.minor}}
+status:
+  eolVersions:
+  - eolDate: "2023-02-10"
+    releaseDate: "2019-11-08"
+    version: "6"
+  - eolDate: "2019-11-08"
+    releaseDate: "2018-11-23"
+    version: "5"
+  - eolDate: "2018-11-26"
+    releaseDate: "2017-06-14"
+    version: "4"
+  - eolDate: "2017-06-14"
+    releaseDate: "2016-08-15"
+    version: "3"
+  - eolDate: "2016-08-15"
+    releaseDate: "2014-07-01"
+    version: "2"
+  - eolDate: "2014-07-01"
+    releaseDate: "2012-06-12"
+    version: "1"
+  lastUpdatedTimestamp: "2023-12-14T19:21:12.146287067Z"
+  latestVersion: 8.5.0
+  versions:
+  - releaseDate: "2023-02-10"
+    version: "8"
+  - releaseDate: "2021-04-09"
+    version: "7"
