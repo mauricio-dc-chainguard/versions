@@ -7,7 +7,7 @@ spec:
     identifier: apache-cassandra
   versionStreamFormat: ${{name}}-${{versions.major}}.${{versions.minor}}
 status:
-  lastUpdatedTimestamp: "2023-12-14T21:09:19.808404692Z"
+  lastUpdatedTimestamp: "2023-12-14T21:12:08.440866416Z"
   latestVersion: 4.1.3
   versions:
   - releaseDate: "2022-12-13"
