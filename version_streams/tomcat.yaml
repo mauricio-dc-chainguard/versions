@@ -1,0 +1,8 @@
+apiVersion: versions.wolfi.dev/v1
+kind: VersionStream
+metadata:
+  name: tomcat
+spec:
+  endOfLife:
+    identifier: tomcat
+  versionStreamFormat: ${{name}}-${{versions.major}}.${{versions.minor}}
