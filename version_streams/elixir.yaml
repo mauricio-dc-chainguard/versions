@@ -1,0 +1,7 @@
+apiVersion: versions.wolfi.dev/v1
+kind: VersionStream
+metadata:
+  name: elixir
+spec:
+  endOfLife:
+    identifier: elixir
