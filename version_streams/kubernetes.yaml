@@ -1,0 +1,8 @@
+apiVersion: versions.wolfi.dev/v1
+kind: VersionStream
+metadata:
+  name: kubernetes
+spec:
+  endOfLife:
+    identifier: kubernetes
+  versionStreamFormat: ${{name}}-${{versions.major}}.${{versions.minor}}
