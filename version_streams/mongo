@@ -1,0 +1,8 @@
+apiVersion: versions.wolfi.dev/v1
+kind: VersionStream
+metadata:
+  name: mongo
+spec:
+  endOfLife:
+    identifier: mongodb
+  versionStreamFormat: ${{name}}-${{versions.major}}.${{versions.minor}}
