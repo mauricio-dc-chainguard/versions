@@ -1,8 +1,0 @@
-apiVersion: versions.wolfi.dev/v1
-kind: VersionStream
-metadata:
-  name: istio
-spec:
-  endOfLife:
-    identifier: istio
-  versionStreamFormat: ${{name}}-${{versions.major}}.${{versions.minor}}
