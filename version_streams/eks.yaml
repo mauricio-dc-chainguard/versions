@@ -1,0 +1,8 @@
+apiVersion: versions.wolfi.dev/v1
+kind: VersionStream
+metadata:
+  name: eks
+spec:
+  endOfLife:
+    identifier: amazon-eks
+  versionStreamFormat: ${{name}}-${{versions.major}}.${{versions.minor}}
