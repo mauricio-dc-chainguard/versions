@@ -1,7 +1,7 @@
 apiVersion: versions.wolfi.dev/v1
 kind: VersionStream
 metadata:
-  name: argocd
+  name: argo-cd
 spec:
   endOfLife:
     identifier: argocd

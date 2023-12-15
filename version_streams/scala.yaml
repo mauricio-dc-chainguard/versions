@@ -5,7 +5,7 @@ metadata:
 spec:
   endOfLife:
     identifier: scala
-  versionStreamFormat: ${{name}}-${{versions.major}}.${{versions.minor}}
+  versionStreamFormat: ${{name}}-${{versions.major}}
 status:
   eolVersions:
   - eolDate: "2023-05-23"
