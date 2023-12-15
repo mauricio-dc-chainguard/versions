@@ -28,7 +28,7 @@ status:
   - eolDate: "2018-10-01"
     releaseDate: "2017-08-14"
     version: "2.0"
-  lastUpdatedTimestamp: "2023-12-15T17:05:54.594751634Z"
+  lastUpdatedTimestamp: "2023-12-15T17:09:08.884070682Z"
   latestVersion: 8.0.0
   versions:
   - lts: "true"

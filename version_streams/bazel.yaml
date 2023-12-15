@@ -6,3 +6,19 @@ spec:
   endOfLife:
     identifier: bazel
   versionStreamFormat: ${{name}}-${{versions.major}}.${{versions.minor}}
+status:
+  lastUpdatedTimestamp: "2023-12-15T17:09:08.883409241Z"
+  latestVersion: 7.0.0
+  versions:
+  - lts: "true"
+    releaseDate: "2023-12-11"
+    version: "7"
+  - lts: "true"
+    releaseDate: "2022-12-19"
+    version: "6"
+  - lts: "true"
+    releaseDate: "2022-01-19"
+    version: "5"
+  - lts: "true"
+    releaseDate: "2021-01-21"
+    version: "4"
