@@ -1,0 +1,52 @@
+apiVersion: versions.wolfi.dev/v1
+kind: VersionStream
+metadata:
+  name: istio-cni
+spec:
+  endOfLife:
+    identifier: istio
+  versionStreamFormat: ${{name}}-*-${{versions.major}}.${{versions.minor}}
+status:
+  eolVersions:
+  - eolDate: "2023-10-27"
+    releaseDate: "2023-02-14"
+    version: "1.17"
+  - eolDate: "2023-07-25"
+    releaseDate: "2022-11-15"
+    version: "1.16"
+  - eolDate: "2023-04-04"
+    releaseDate: "2022-08-31"
+    version: "1.15"
+  - eolDate: "2022-12-27"
+    releaseDate: "2022-06-01"
+    version: "1.14"
+  - eolDate: "2022-10-12"
+    releaseDate: "2022-02-11"
+    version: "1.13"
+  - eolDate: "2022-07-12"
+    releaseDate: "2021-11-18"
+    version: "1.12"
+  - eolDate: "2022-03-25"
+    releaseDate: "2021-08-12"
+    version: "1.11"
+  - eolDate: "2022-01-07"
+    releaseDate: "2021-05-18"
+    version: "1.10"
+  - eolDate: "2021-10-08"
+    releaseDate: "2021-02-09"
+    version: "1.9"
+  - eolDate: "2021-05-12"
+    releaseDate: "2020-11-19"
+    version: "1.8"
+  - eolDate: "2021-02-25"
+    releaseDate: "2020-08-21"
+    version: "1.7"
+  lastUpdatedTimestamp: "2023-12-15T17:09:08.893644345Z"
+  latestVersion: 1.20.1
+  versions:
+  - releaseDate: "2023-11-14"
+    version: "1.20"
+  - releaseDate: "2023-09-05"
+    version: "1.19"
+  - releaseDate: "2023-06-07"
+    version: "1.18"
