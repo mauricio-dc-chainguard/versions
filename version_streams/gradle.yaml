@@ -5,7 +5,7 @@ metadata:
 spec:
   endOfLife:
     identifier: gradle
-  versionStreamFormat: ${{name}}-${{versions.major}}.${{versions.minor}}
+  versionStreamFormat: ${{name}}-${{versions.major}}
 status:
   eolVersions:
   - eolDate: "2023-02-10"

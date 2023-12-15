@@ -5,8 +5,7 @@ metadata:
 spec:
   endOfLife:
     identifier: dotnet
-  versionStreamFormat: ${{name}}-${{versions.major}}.${{versions.minor}}
-status:
+  versionStreamFormat: ${{name}}-${{versions.major}}
   eolVersions:
   - eolDate: "2022-05-08"
     releaseDate: "2020-11-10"
