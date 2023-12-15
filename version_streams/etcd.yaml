@@ -6,3 +6,24 @@ spec:
   endOfLife:
     identifier: etcd
   versionStreamFormat: ${{name}}-${{versions.major}}.${{versions.minor}}
+status:
+  eolVersions:
+  - eolDate: "2021-10-15"
+    releaseDate: "2018-02-01"
+    version: "3.3"
+  - eolDate: "2021-03-28"
+    releaseDate: "2017-06-09"
+    version: "3.2"
+  - eolDate: "2018-10-10"
+    releaseDate: "2017-01-20"
+    version: "3.1"
+  - eolDate: "2017-01-20"
+    releaseDate: "2016-06-30"
+    version: "3.0"
+  lastUpdatedTimestamp: "2023-12-15T00:04:50.219524674Z"
+  latestVersion: 3.5.11
+  versions:
+  - releaseDate: "2021-06-15"
+    version: "3.5"
+  - releaseDate: "2019-08-30"
+    version: "3.4"
