@@ -1,0 +1,8 @@
+apiVersion: versions.wolfi.dev/v1
+kind: VersionStream
+metadata:
+  name: bazel
+spec:
+  endOfLife:
+    identifier: bazel
+  versionStreamFormat: ${{name}}-${{versions.major}}.${{versions.minor}}
