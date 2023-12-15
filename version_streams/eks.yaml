@@ -26,8 +26,8 @@ status:
   - eolDate: "2022-08-15"
     releaseDate: "2020-10-13"
     version: "1.18"
-  lastUpdatedTimestamp: "2023-12-15T07:30:21.001863694Z"
-  latestVersion: 1.28-eks-5
+  lastUpdatedTimestamp: "2023-12-15T17:05:54.595258125Z"
+  latestVersion: 1.28-eks-6
   versions:
   - releaseDate: "2023-09-26"
     version: "1.28"

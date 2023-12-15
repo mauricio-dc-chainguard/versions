@@ -6,3 +6,15 @@ spec:
   endOfLife:
     identifier: cert-manager
   versionStreamFormat: ${{name}}-${{versions.major}}.${{versions.minor}}
+status:
+  eolVersions:
+  - eolDate: "2023-09-12"
+    releaseDate: "2023-01-11"
+    version: "1.11"
+  lastUpdatedTimestamp: "2023-12-15T17:05:54.592230956Z"
+  latestVersion: 1.13.3
+  versions:
+  - releaseDate: "2023-09-12"
+    version: "1.13"
+  - releaseDate: "2023-05-19"
+    version: "1.12"

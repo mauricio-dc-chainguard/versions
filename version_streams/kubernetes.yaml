@@ -38,9 +38,11 @@ status:
   - eolDate: "2020-08-04"
     releaseDate: "2019-09-18"
     version: "1.16"
-  lastUpdatedTimestamp: "2023-12-15T07:30:21.01073315Z"
-  latestVersion: 1.28.4
+  lastUpdatedTimestamp: "2023-12-15T17:05:54.605432314Z"
+  latestVersion: 1.29.0
   versions:
+  - releaseDate: "2023-12-13"
+    version: "1.29"
   - releaseDate: "2023-08-15"
     version: "1.28"
   - releaseDate: "2023-04-11"
