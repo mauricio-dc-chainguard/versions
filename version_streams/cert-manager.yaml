@@ -1,0 +1,8 @@
+apiVersion: versions.wolfi.dev/v1
+kind: VersionStream
+metadata:
+  name: cert-manager
+spec:
+  endOfLife:
+    identifier: cert-manager
+  versionStreamFormat: ${{name}}-${{versions.major}}.${{versions.minor}}
