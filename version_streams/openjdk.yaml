@@ -4,8 +4,8 @@ metadata:
   name: openjdk
 spec:
   endOfLife:
-    identifier: oracle-jdk
-  versionStreamFormat: ${{name}}-${{versions.major}}.${{versions.minor}}
+    identifier: redhat-build-of-openjdk
+  versionStreamFormat: ${{name}}-${{versions.major}}
 status:
   eolVersions:
   - eolDate: "2023-09-19"
