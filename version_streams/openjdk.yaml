@@ -1,0 +1,8 @@
+apiVersion: versions.wolfi.dev/v1
+kind: VersionStream
+metadata:
+  name: openjdk
+spec:
+  endOfLife:
+    identifier: oracle-jdk # use oracle-jdk as openjdk release versions on eol is not correct 
+  versionStreamFormat: ${{name}}-${{versions.major}}.${{versions.minor}}
