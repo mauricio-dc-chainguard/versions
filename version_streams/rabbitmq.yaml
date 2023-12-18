@@ -41,10 +41,12 @@ status:
   - eolDate: "2013-11-30"
     releaseDate: "2012-11-19"
     version: "3.0"
-  lastUpdatedTimestamp: "2023-12-18T07:30:21.831443939Z"
+  lastUpdatedTimestamp: "2023-12-18T11:18:44.797836541Z"
   latestVersion: 3.12.10
   versions:
-  - releaseDate: "2023-06-01"
+  - eolDate: "2024-06-30"
+    releaseDate: "2023-06-01"
     version: "3.12"
-  - releaseDate: "2022-09-26"
+  - eolDate: "2023-12-31"
+    releaseDate: "2022-09-26"
     version: "3.11"

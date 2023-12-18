@@ -26,10 +26,12 @@ status:
   - eolDate: "2014-07-01"
     releaseDate: "2012-06-12"
     version: "1"
-  lastUpdatedTimestamp: "2023-12-18T07:30:21.814750216Z"
+  lastUpdatedTimestamp: "2023-12-18T11:18:44.808849944Z"
   latestVersion: 8.5.0
   versions:
-  - releaseDate: "2023-02-10"
+  - eolDate: ""
+    releaseDate: "2023-02-10"
     version: "8"
-  - releaseDate: "2021-04-09"
+  - eolDate: ""
+    releaseDate: "2021-04-09"
     version: "7"
