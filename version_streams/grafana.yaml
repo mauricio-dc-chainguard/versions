@@ -1,0 +1,8 @@
+apiVersion: versions.wolfi.dev/v1
+kind: VersionStream
+metadata:
+  name: grafana
+spec:
+  endOfLife:
+    identifier: grafana
+  versionStreamFormat: ${{name}}-${{versions.major}}.${{versions.minor}}
