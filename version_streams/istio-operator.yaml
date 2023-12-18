@@ -5,7 +5,7 @@ metadata:
 spec:
   endOfLife:
     identifier: istio
-  versionStreamFormat: ${{name}}-*-${{versions.major}}.${{versions.minor}}
+  versionStreamFormat: ${{name}}-${{versions.major}}.${{versions.minor}}
 status:
   eolVersions:
   - eolDate: "2023-10-27"
