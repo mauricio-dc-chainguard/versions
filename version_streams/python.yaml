@@ -5,6 +5,9 @@ metadata:
 spec:
   endOfLife:
     identifier: python
+  ignoreMissingVersions:
+  - "3.8"
+  - "3.9"
   versionStreamFormat: ${{name}}-${{versions.major}}.${{versions.minor}}
 status:
   eolVersions:
