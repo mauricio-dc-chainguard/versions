@@ -5,6 +5,8 @@ metadata:
 spec:
   endOfLife:
     identifier: go
+  ignoreEolVersions:
+  - "1.19"
   versionStreamFormat: ${{name}}-${{versions.major}}.${{versions.minor}}
 status:
   eolVersions:
