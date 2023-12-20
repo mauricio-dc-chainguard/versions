@@ -60,7 +60,16 @@ status:
     lts: "2015-10-01"
     releaseDate: "2015-09-09"
     version: "4"
-  lastUpdatedTimestamp: "2023-12-20T07:30:23.52593146Z"
+  - eolDate: "1970-01-01"
+    releaseDate: "2015-08-04"
+    version: "3"
+  - eolDate: "1970-01-01"
+    releaseDate: "2015-05-04"
+    version: "2"
+  - eolDate: "1970-01-01"
+    releaseDate: "2015-01-20"
+    version: "1"
+  lastUpdatedTimestamp: "2023-12-20T15:47:52.584324452Z"
   latestVersion: 21.5.0
   versions:
   - eolDate: "2024-06-01"
