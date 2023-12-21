@@ -5,6 +5,8 @@ metadata:
 spec:
   endOfLife:
     identifier: redhat-build-of-openjdk
+  ignoreEolVersions:
+  - "7"
   versionStreamFormat: ${{name}}-${{versions.major}}
 status:
   eolVersions:
