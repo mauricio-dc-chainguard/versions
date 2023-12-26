@@ -35,9 +35,12 @@ status:
   - eolDate: "2015-02-23"
     releaseDate: "2011-10-30"
     version: 1.9.3
-  lastUpdatedTimestamp: "2023-12-25T07:30:26.561601992Z"
-  latestVersion: 3.2.2
+  lastUpdatedTimestamp: "2023-12-26T07:30:21.757674723Z"
+  latestVersion: 3.3.0
   versions:
+  - eolDate: "2027-03-31"
+    releaseDate: "2023-12-25"
+    version: "3.3"
   - eolDate: "2026-03-31"
     releaseDate: "2022-12-25"
     version: "3.2"
