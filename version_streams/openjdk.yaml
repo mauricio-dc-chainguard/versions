@@ -16,9 +16,12 @@ status:
   - eolDate: "2016-12-31"
     releaseDate: "2009-01-20"
     version: "6"
-  lastUpdatedTimestamp: "2023-12-26T07:30:21.759587722Z"
-  latestVersion: 17.0.9.0.9-1
+  lastUpdatedTimestamp: "2023-12-27T07:30:20.490859014Z"
+  latestVersion: 21.0.1.0.12-3
   versions:
+  - eolDate: "2029-12-31"
+    releaseDate: "2023-10-30"
+    version: "21"
   - eolDate: "2027-10-30"
     releaseDate: "2021-05-18"
     version: "17"
