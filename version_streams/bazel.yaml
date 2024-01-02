@@ -7,7 +7,7 @@ spec:
     identifier: bazel
   versionStreamFormat: ${{name}}-${{versions.major}}
 status:
-  lastUpdatedTimestamp: "2024-01-01T07:30:19.748799144Z"
+  lastUpdatedTimestamp: "2024-01-02T07:30:49.225551567Z"
   latestVersion: 7.0.0
   versions:
   - eolDate: "2026-12-11"
