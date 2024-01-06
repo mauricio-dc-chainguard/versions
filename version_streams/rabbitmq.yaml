@@ -44,8 +44,8 @@ status:
   - eolDate: "2013-11-30"
     releaseDate: "2012-11-19"
     version: "3.0"
-  lastUpdatedTimestamp: "2024-01-05T07:30:26.04376763Z"
-  latestVersion: 3.12.11
+  lastUpdatedTimestamp: "2024-01-06T07:30:26.781891548Z"
+  latestVersion: 3.12.12
   versions:
   - eolDate: "2024-06-30"
     releaseDate: "2023-06-01"
