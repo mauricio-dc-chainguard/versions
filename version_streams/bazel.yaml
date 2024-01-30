@@ -12,7 +12,7 @@ status:
     lts: "true"
     releaseDate: "2021-01-21"
     version: "4"
-  lastUpdatedTimestamp: "2024-01-29T07:30:23.561464154Z"
+  lastUpdatedTimestamp: "2024-01-30T07:30:25.011677156Z"
   latestVersion: 7.0.2
   versions:
   - eolDate: "2026-12-11"
