@@ -92,8 +92,8 @@ status:
   - eolDate: "2017-01-23"
     releaseDate: "2016-09-02"
     version: "1.0"
-  lastUpdatedTimestamp: "2024-02-01T07:30:28.782131253Z"
-  latestVersion: 1.29.3
+  lastUpdatedTimestamp: "2024-02-02T07:30:24.026223236Z"
+  latestVersion: 1.29.4
   versions:
   - eolDate: ""
     releaseDate: "2023-12-11"

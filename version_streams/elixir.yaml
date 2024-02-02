@@ -32,8 +32,8 @@ status:
   - eolDate: "2019-06-24"
     releaseDate: "2017-01-05"
     version: "1.4"
-  lastUpdatedTimestamp: "2024-02-01T07:30:28.766877651Z"
-  latestVersion: 1.16.0
+  lastUpdatedTimestamp: "2024-02-02T07:30:24.027554476Z"
+  latestVersion: 1.16.1
   versions:
   - eolDate: ""
     releaseDate: "2023-12-22"
