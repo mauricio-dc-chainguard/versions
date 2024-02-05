@@ -26,8 +26,8 @@ status:
   - eolDate: "2014-07-01"
     releaseDate: "2012-06-12"
     version: "1"
-  lastUpdatedTimestamp: "2024-02-04T07:30:19.662603563Z"
-  latestVersion: 8.5.0
+  lastUpdatedTimestamp: "2024-02-05T07:30:17.08667121Z"
+  latestVersion: 8.6.0
   versions:
   - eolDate: ""
     releaseDate: "2023-02-10"
