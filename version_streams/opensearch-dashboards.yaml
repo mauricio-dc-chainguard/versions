@@ -1,0 +1,8 @@
+apiVersion: versions.wolfi.dev/v1
+kind: VersionStream
+metadata:
+  name: opensearch-dashboards
+spec:
+  endOfLife:
+    identifier: opensearch
+  versionStreamFormat: ${{name}}-${{versions.major}}
