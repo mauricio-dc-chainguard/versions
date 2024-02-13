@@ -188,8 +188,8 @@ status:
   - eolDate: "2021-02-25"
     releaseDate: "2020-08-21"
     version: "1.7"
-  lastUpdatedTimestamp: "2024-02-08T07:30:15.141974181Z"
-  latestVersion: 1.20.2
+  lastUpdatedTimestamp: "2024-02-13T11:08:53.855288321Z"
+  latestVersion: 1.20.3
   versions:
   - eolDate: "2024-07-31"
     releaseDate: "2023-11-14"

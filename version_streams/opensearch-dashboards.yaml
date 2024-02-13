@@ -6,3 +6,19 @@ spec:
   endOfLife:
     identifier: opensearch
   versionStreamFormat: ${{name}}-${{versions.major}}
+status:
+  lastUpdatedTimestamp: "2024-02-13T11:08:53.852010456Z"
+  latestVersion: 2.11.1
+  versions:
+  - eolDate: ""
+    releaseDate: "2022-05-18"
+    version: "2"
+  - eolDate: ""
+    releaseDate: "2021-07-02"
+    version: "1"
+  - eolDate: ""
+    releaseDate: "2022-05-18"
+    version: "2"
+  - eolDate: ""
+    releaseDate: "2021-07-02"
+    version: "1"
