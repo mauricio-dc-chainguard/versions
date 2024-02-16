@@ -17,8 +17,8 @@ status:
   - eolDate: "2021-10-18"
     releaseDate: "2021-05-13"
     version: "3.0"
-  lastUpdatedTimestamp: "2024-02-15T07:30:25.933904368Z"
-  latestVersion: 3.3.1
+  lastUpdatedTimestamp: "2024-02-16T07:30:28.798065095Z"
+  latestVersion: 3.3.2
   versions:
   - eolDate: ""
     releaseDate: "2023-05-23"
