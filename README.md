@@ -25,6 +25,9 @@ Replace <project-name> with the name of the project and <eol-identifier> with th
 
 ## Alternatives
 Manual Update: If the version data cannot be automatically fetched, a manual specification can be used, requiring manual updates to the `.status` fields.
+
+Note, this should be used only as a last resort and should also be acompanied by a link to a PR on endoflife as we don't want to maintain versions ourselves, rather this is used to unblock while upstream contributions are accepted.  Once accepeted please create a followup to remove the `manual: true`.
+
 ```yaml
 kind: VersionStream
 metadata:
