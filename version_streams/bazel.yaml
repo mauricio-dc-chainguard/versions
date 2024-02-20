@@ -8,22 +8,22 @@ spec:
   versionStreamFormat: ${{name}}-${{versions.major}}
 status:
   eolVersions:
-  - eolDate: "2024-01-21"
+  - eolDate: "2024-01-31"
     lts: "true"
     releaseDate: "2021-01-21"
     version: "4"
-  lastUpdatedTimestamp: "2024-02-19T07:30:15.167956637Z"
+  lastUpdatedTimestamp: "2024-02-20T07:30:24.494037352Z"
   latestVersion: 7.0.2
   versions:
-  - eolDate: "2026-12-11"
+  - eolDate: "2026-12-31"
     lts: "true"
     releaseDate: "2023-12-11"
     version: "7"
-  - eolDate: "2025-12-19"
+  - eolDate: "2025-12-31"
     lts: "true"
     releaseDate: "2022-12-19"
     version: "6"
-  - eolDate: "2025-01-19"
+  - eolDate: "2025-01-31"
     lts: "true"
     releaseDate: "2022-01-19"
     version: "5"
