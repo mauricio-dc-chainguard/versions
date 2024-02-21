@@ -74,8 +74,8 @@ status:
   - eolDate: "2010-08-31"
     releaseDate: "2009-08-27"
     version: "1.0"
-  lastUpdatedTimestamp: "2024-02-21T07:30:19.290632126Z"
-  latestVersion: 7.2.0
+  lastUpdatedTimestamp: "2024-02-21T14:15:58.643820226Z"
+  latestVersion: 7.2.1
   versions:
   - eolDate: ""
     releaseDate: "2023-12-14"

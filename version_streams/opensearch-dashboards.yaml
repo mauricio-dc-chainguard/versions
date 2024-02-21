@@ -7,8 +7,8 @@ spec:
     identifier: opensearch
   versionStreamFormat: ${{name}}-${{versions.major}}
 status:
-  lastUpdatedTimestamp: "2024-02-21T07:30:19.300312187Z"
-  latestVersion: 2.11.1
+  lastUpdatedTimestamp: "2024-02-21T14:15:58.636132491Z"
+  latestVersion: 2.12.0
   versions:
   - eolDate: ""
     releaseDate: "2022-05-18"
