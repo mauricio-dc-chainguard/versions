@@ -23,8 +23,8 @@ status:
   - eolDate: "2012-09-30"
     releaseDate: "2003-09-06"
     version: "5"
-  lastUpdatedTimestamp: "2024-02-20T07:30:24.488971361Z"
-  latestVersion: 10.1.18
+  lastUpdatedTimestamp: "2024-02-21T07:30:19.310956404Z"
+  latestVersion: 10.1.19
   versions:
   - eolDate: ""
     releaseDate: "2022-09-23"
