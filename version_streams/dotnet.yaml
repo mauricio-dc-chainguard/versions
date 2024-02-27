@@ -8,9 +8,9 @@ spec:
   versionStreamFormat: ${{name}}-${{versions.major}}
 status:
   eolVersions:
-  - eolDate: "2022-05-08"
+  - eolDate: "2022-05-10"
     releaseDate: "2020-11-10"
-    version: "5.0"
+    version: "5"
   - eolDate: "2022-12-13"
     lts: "true"
     releaseDate: "2019-12-03"
@@ -28,17 +28,17 @@ status:
   - eolDate: "2018-10-01"
     releaseDate: "2017-08-14"
     version: "2.0"
-  lastUpdatedTimestamp: "2024-02-26T07:30:26.113855926Z"
+  lastUpdatedTimestamp: "2024-02-27T07:30:33.671688461Z"
   latestVersion: 8.0.2
   versions:
   - eolDate: "2026-11-10"
     lts: "true"
     releaseDate: "2023-11-14"
-    version: "8.0"
+    version: "8"
   - eolDate: "2024-05-14"
     releaseDate: "2022-11-08"
-    version: "7.0"
+    version: "7"
   - eolDate: "2024-11-12"
     lts: "true"
     releaseDate: "2021-11-08"
-    version: "6.0"
+    version: "6"
